@@ -2,6 +2,9 @@
   "name": "react-playground",
   "version": "1.0.0",
   "private": true,
+  "engine": {
+    "node": "18.15.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
